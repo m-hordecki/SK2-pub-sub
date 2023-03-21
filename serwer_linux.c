@@ -1,5 +1,5 @@
 /*
-	Projekt zaliczeniowy z Sieci Komputerowych 2 - program serwera
+	Projekt zaliczeniowy z Sieci Komputerowych 2 - program serwera linukswego
 	System wymiany komunikatow typu publish/subscribe
 	Agnieszka Gapinska
 	Michal Hordecki
